@@ -1,4 +1,5 @@
-Repositorio do Grupo 2 da disciplina Projeto-Front-End
+Repositorio do Grupo 2
+Disciplina:Projeto-Front-End
 Integrantes:
 João Pedro 
 Joao Arthur
