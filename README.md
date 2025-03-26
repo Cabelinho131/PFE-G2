@@ -3,6 +3,6 @@ Disciplina: Projeto-Front-End
 Integrantes:
 João Pedro 
 Joao Arthur
-Luiz Fabiano
+Patrick
 
 # PFE-G2
